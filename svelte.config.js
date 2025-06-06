@@ -18,9 +18,6 @@ const config = {
     paths: {
       base: dev ? "" : "/landing-page-gym",
     },
-    prerender: {
-      default: false,
-    },
   },
 };
 
