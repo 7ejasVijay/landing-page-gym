@@ -19,7 +19,7 @@ const config = {
       base: dev ? "" : "/landing-page-gym",
     },
     prerender: {
-      default: true,
+      default: false,
     },
   },
 };
