@@ -18,8 +18,8 @@ Welcome to **GymFlex**, a fast, interactive, and modern gym website powered by *
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/gymflex.git
-cd gymflex
+git clone https://github.com/7ejasVijay/landing-page-gym.git
+cd landing-page-gym
 
 # 2. Install dependencies
 npm install
