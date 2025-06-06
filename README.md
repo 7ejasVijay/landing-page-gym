@@ -37,9 +37,15 @@ src/
 ├── components/     # Reusable UI components
 └── assets/         # Images & media
 ```
+## 📸 Screenshot(s)
+
+![gym-flex](https://github.com/user-attachments/assets/63758d14-c09d-4cf9-b0be-a10d94d45048)
+
 
 ## 🧠 Inspiration
 
 This project is a demo project for learning purposes, feel free to go through the code. Thanks to https://www.youtube.com/watch?v=vb7CgDcA_6U for a wonderful tutorial.
 
 ### Thank you
+
+
