@@ -11,7 +11,7 @@
         "Every workout is new and exciting",
       ],
       description:
-        "Swoley moley ensures all users have the information they need to train safely and train effectively.",
+        "Gym Flex ensures all users have the information they need to train safely and train effectively.",
       imgUrl: "assets/selection.png",
     },
     {
