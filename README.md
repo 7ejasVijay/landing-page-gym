@@ -2,25 +2,19 @@
 
 Welcome to **GymFlex**, a fast, interactive, and modern gym website powered by **SvelteKit**. Designed for gym owners who want to showcase their facilities, schedules, trainers, and more — all with blazing speed and smooth transitions.
 
----
-
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 - ⚡ [SvelteKit](https://kit.svelte.dev/) — Web framework
 - 🎨 Tailwind CSS — Utility-first styling
 - 📦 Deployment — Vercel / Netlify / Node / Github Pages
 
----
-
-### ✨ Features
+## ✨ Features
 
 - 🔥 Beautiful landing page
 - 🕒 Dynamic class schedules
 - 📱 Mobile responsive layout
 
----
-
-### 📦 Getting Started
+## 📦 Getting Started
 
 ```bash
 # 1. Clone the repo
@@ -34,9 +28,7 @@ npm install
 npm run dev
 ```
 
----
-
-### 🛠 Project Structure
+## 🛠 Project Structure
 
 ```bash
 src/
